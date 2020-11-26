@@ -1,4 +1,4 @@
-package com.cy.rpc;
+package com.cy.rpc.service;
 
 public interface IUserService {
 
